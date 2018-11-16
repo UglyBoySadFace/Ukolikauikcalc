@@ -1,2 +1,0 @@
-# Ukolikauikcalc
-Created with CodeSandbox
